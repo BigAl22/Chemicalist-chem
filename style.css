@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    font-family: verdenna;
+    font-size: 300%;
+
+    border: 10px solid grey;
+    background-color: black;
+
+
+    text-align: center;
+}
+p {
+    color: red;
+    font-family: verdenna;
+    font-size: 150%;
+    text-align: center;
+
+    border: 5px solid grey;
+    background-color: black;
+}
+#firstSetImg {
+    width: 19.25%;
+    height: auto;
+    text-align: center;
+    background-color: black;
+}
