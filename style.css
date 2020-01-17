@@ -61,6 +61,14 @@ nav a::before {
 nav a:hover::before {
   width: 100%;
 }
+h2 {
+    color: black;
+    font-family: vredenna;
+    font-size: 150%;
+    text-align: center;
+    margin: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+}
 
 /* main body */
 h1 {
