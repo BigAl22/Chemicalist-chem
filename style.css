@@ -19,8 +19,8 @@ header::after {
 }
 .logo{
   color: red;
-/*  float: left; */
-  padding: 10px 25px;
+  float: left;
+/*  padding: 10px 25px; */
 }
 nav  {
   float: right;
