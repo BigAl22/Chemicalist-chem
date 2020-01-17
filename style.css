@@ -18,6 +18,7 @@ header::after {
   clear: both;
 }
 .logo{
+  color: red;
   float: left;
   padding: 10px 25px;
 }
