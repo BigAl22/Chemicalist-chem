@@ -19,7 +19,7 @@ header::after {
 }
 .logo{
   color: red;
-  float: left;
+/*  float: left; */
   padding: 10px 25px;
 }
 nav  {
