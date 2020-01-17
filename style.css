@@ -1,7 +1,9 @@
+/* Background color */
 body {
     background-color: black;
 }
 
+/* Header */
 .container {
   width: 80%;
   margin: 0 auto;
@@ -60,6 +62,7 @@ nav a:hover::before {
   width: 100%;
 }
 
+/* main body */
 h1 {
     color: red;
     font-family: verdenna;
