@@ -73,6 +73,12 @@ footer::after {
   display: table;
   clear: both;
 }
+#footerText {
+    color: red;
+    font-family: verdenna;
+    font-size: 100%;
+    text-align: left;
+}
 
 /* main body */
 h1 {
