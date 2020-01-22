@@ -12,7 +12,7 @@ header {
   background: #585858;
   position: fixed;
   left: 0;
-  bottom: 0;
+  top: 0;
   width: 100%;
 }
 
