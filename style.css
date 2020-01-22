@@ -63,6 +63,17 @@ nav a:hover::before {
   width: 100%;
 }
 
+/* Footer */
+footer {
+  background: #585858;
+}
+
+footer::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
 /* main body */
 h1 {
     color: red;
